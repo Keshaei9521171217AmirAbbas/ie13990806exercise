@@ -1,0 +1,43 @@
+html{
+	background-color: #313131;
+}
+
+
+h2{
+	text-align: right;
+	color: wheat;
+}
+
+p{
+	color: white;
+	font-size: 18;
+}
+
+
+a{
+	text-align: center;
+	color: aqua;
+	background-color: #000000;
+	border-radius: 20px;
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+}
+
+
+
+#season_1{
+	text-align: center
+}
+
+
+.title {
+	background-color: #434343;
+	margin: auto;
+	text-align: right;
+  	width: 70%;
+  	border: 3px solid white;
+	border-radius: 30px;
+  	padding: 10px;
+}

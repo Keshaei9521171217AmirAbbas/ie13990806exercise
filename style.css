@@ -1,0 +1,86 @@
+html{
+	background-color: #313131;
+}
+
+span{
+	color: white;
+	text-align: right;
+}
+
+h1{
+	color: whitesmoke;
+	text-align: center;
+}
+
+h2{
+	text-align: right;
+	color: wheat;
+}
+
+h3{
+	color: white;
+}
+p{
+	color: white;
+}
+
+ol{
+	color: white;
+}
+
+a{
+	text-align: center;
+	color: aqua;
+	background-color: #232323;
+	border-radius: 20px;
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+}
+
+
+#season_1{
+	text-align: center
+}
+
+#description{
+	text-align: right;
+}
+
+.title {
+	background-color: #565656;
+	margin: auto;
+	text-align: center;
+  	width: 80%;
+  	border: 3px solid white;
+  	padding: 10px;
+}
+
+.subtitle{
+	border-radius: 30px;
+	background-color: #232323;
+	width: 28%;
+	height: 26%;
+	text-align: center;
+	align-content: center;
+	align-items: center;
+  	display: inline-block;
+	margin: 10px;
+	padding: 1%;
+	vertical-align: top;
+}
+
+.subtitle:hover{
+	border-radius: 30px;
+	background-color: #000000;
+	width: 28%;
+	height: 26%;
+	text-align: center;
+	align-content: center;
+	align-items: center;
+  	display: inline-block;
+	margin: 10px;
+	padding: 1%;
+	vertical-align: top;
+}
